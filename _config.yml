@@ -1,3 +1,4 @@
+layout_spectrum: 0.130460151098853
 typography_spectrum: 0.8703808667735741
 color:
   brandColors:
@@ -10,8 +11,6 @@ color:
   lightness: 0.8556731173247651
   saturation: 0.08906214198918257
   rhythmicContrast: 0.3397255880165255
-github: true
-layout_spectrum: 0.130460151098853
 analytics:
   google: UA-87825913-7
 author:
@@ -32,13 +31,7 @@ navigation:
   - name: HONMONO社の想い
     id: dc4af7d6-3abb-46f5-9ffe-ff4e5015e2b5
     type: content
-  - name: 会社概要
-    id: dc92cd79-9d7f-4942-8475-2ff8e8c17fac
-    type: content
-  - name: AI(人工知能)のWEBサイト制作について
-    id: c4d23fab-fe71-425b-9a7b-8d2c559d7374
-    type: content
-title: AI(人工知能)でWEBサイトを制作しています！｜株式会社HONMONO
+title: AI(人工知能)がWEBサイトを制作します！
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -89,7 +82,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
-  名古屋にある株式会社HONMONOでは、WEBサイトをAI（人工知能）が制作します。AIが制作を行うから人件費を抑えられます。相場より安く、しかも通常の納期より早くご提供できます。制作後の改善作業もAIがアクセスデータをもとに自動で行うので、運用面でも安心です。
+  WEB制作業者は信用していない,WEB担当者との意思疎通が出来ないからデザインもカタチにならない...またレスポンスの遅さも...不満はございませんか？人工知能が最適なWEBデザインを担当者に変わって生成/WEBサイトの更新.kaizenも自動化します
 purpose:
   - type: contact
     url: 'tel:81529902807'
@@ -98,3 +91,4 @@ purpose:
     url: >-
       https://docs.google.com/forms/d/e/1FAIpQLSddKRqIul97pcC7fuqwzvuEkQ1UPI8wd4BacePgWP8SPLumIQ/viewform?usp=sf_link
     label: MAIL
+github: true
