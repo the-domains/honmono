@@ -1,0 +1,97 @@
+layout_spectrum: 0.9543823398917102
+typography_spectrum: 0.5504421312564819
+color:
+  brandColors:
+    - '#2F2933'
+    - '#01A2A6'
+    - '#29D9C2'
+    - '#BDF271'
+    - '#FFFFA6'
+  brandStrength: 0.13307942793870547
+  lightness: 0.7498063598529869
+  saturation: 0.685060635055277
+  rhythmicContrast: 0.7697706503451498
+analytics:
+  google: UA-87825913-7
+author:
+  name: '株式会社HONMONO '
+  email: info@honmono.me
+  url: 'http://honmono.me'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/87269139-4981-4f43-91dc-60f7076090e2.png
+name: 'AI(人工知能)でのホームページ制作｜株式会社HONMONO '
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: 会社概要
+    id: ddc2c393-9c55-4d59-b48a-91d8c34c39df
+    type: content
+  - name: HONMONO社の想い
+    id: dc4af7d6-3abb-46f5-9ffe-ff4e5015e2b5
+    type: content
+title: AI(人工知能)がWEBサイトを制作します！
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/942c45d1-37b1-4829-a22f-79b74240ce01.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/942c45d1-37b1-4829-a22f-79b74240ce01.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/050601dd-4405-4db4-bedd-4ba1e82b0b41.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/050601dd-4405-4db4-bedd-4ba1e82b0b41.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: >-
+  WEB制作業者は信用していない,WEB担当者との意思疎通が出来ないからデザインもカタチにならない...またレスポンスの遅さも...不満はございませんか？人工知能が最適なWEBデザインを担当者に変わって生成/WEBサイトの更新.kaizenも自動化します
+purpose:
+  - type: contact
+    url: 'tel:81529902807'
+    label: CALL
+  - type: external
+    url: >-
+      https://docs.google.com/forms/d/e/1FAIpQLSddKRqIul97pcC7fuqwzvuEkQ1UPI8wd4BacePgWP8SPLumIQ/viewform?usp=sf_link
+    label: MAIL
+github: true
