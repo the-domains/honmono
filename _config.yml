@@ -1,16 +1,17 @@
-layout_spectrum: 0.9543823398917102
-typography_spectrum: 0.5504421312564819
+typography_spectrum: 0.8703808667735741
 color:
   brandColors:
-    - '#2F2933'
-    - '#01A2A6'
-    - '#29D9C2'
-    - '#BDF271'
-    - '#FFFFA6'
-  brandStrength: 0.13307942793870547
-  lightness: 0.7498063598529869
-  saturation: 0.685060635055277
-  rhythmicContrast: 0.7697706503451498
+    - '#F8F9FC'
+    - '#224FAA'
+    - '#A62626'
+    - '#3D588F'
+    - '#C7CAD1'
+  brandStrength: 0.770955308391021
+  lightness: 0.8556731173247651
+  saturation: 0.08906214198918257
+  rhythmicContrast: 0.3397255880165255
+github: true
+layout_spectrum: 0.130460151098853
 analytics:
   google: UA-87825913-7
 author:
@@ -28,13 +29,16 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: 会社概要
-    id: ddc2c393-9c55-4d59-b48a-91d8c34c39df
-    type: content
   - name: HONMONO社の想い
     id: dc4af7d6-3abb-46f5-9ffe-ff4e5015e2b5
     type: content
-title: AI(人工知能)がWEBサイトを制作します！
+  - name: 会社概要
+    id: dc92cd79-9d7f-4942-8475-2ff8e8c17fac
+    type: content
+  - name: AI(人工知能)のWEBサイト制作について
+    id: c4d23fab-fe71-425b-9a7b-8d2c559d7374
+    type: content
+title: AI(人工知能)でWEBサイトを制作しています！｜株式会社HONMONO
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -94,4 +98,3 @@ purpose:
     url: >-
       https://docs.google.com/forms/d/e/1FAIpQLSddKRqIul97pcC7fuqwzvuEkQ1UPI8wd4BacePgWP8SPLumIQ/viewform?usp=sf_link
     label: MAIL
-github: true
