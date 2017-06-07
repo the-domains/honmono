@@ -35,10 +35,7 @@ navigation:
   - name: 会社概要
     id: dc92cd79-9d7f-4942-8475-2ff8e8c17fac
     type: content
-  - name: AI(人工知能)のWEBサイト制作について
-    id: c4d23fab-fe71-425b-9a7b-8d2c559d7374
-    type: content
-title: AI(人工知能)がWEBサイトを制作します！｜株式会社HONMONO
+title: AI(人工知能)がWEBサイトを制作します！
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
